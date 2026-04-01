@@ -184,7 +184,7 @@ lib/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/MuaazTasawar/NexusTrack.git
+git clone https://github.com/MuaazTasawar/Nexus-Track.git
 cd NexusTrack
 flutter pub get
 ```
